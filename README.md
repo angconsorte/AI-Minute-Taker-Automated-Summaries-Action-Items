@@ -1,13 +1,6 @@
 # AI-Minute-Taker-Automated-Summaries-Action-Items
 An automated, zero-cost pipeline that transforms meeting audio into structured executive summaries. Engineered on Google Colab using Python, Faster-Whisper, and a 4-bit quantized Mistral 7B LLM.
 
-![Python](https://img.shields.io/badge/Python-3.10%2B-blue?style=for-the-badge&logo=python&logoColor=white)
-![Google Colab](https://img.shields.io/badge/Google_Colab-Free_Tier-orange?style=for-the-badge&logo=googlecolab&logoColor=white)
-![Mistral AI](https://img.shields.io/badge/Model-Mistral_7B-purple?style=for-the-badge)
-![OpenAI Whisper](https://img.shields.io/badge/ASR-Faster_Whisper-green?style=for-the-badge)
-
----
-
 ## Situation (The Challenge)
 As a CTO in the **AU Investment Club**, I noticed a critical operational gap: valuable financial analysis and strategy discussions were often lost the moment our meetings ended. We had hours of knowledge and ideas that were not taken advantage of, also making it impossible for absent members to catch up and difficult for our marketing team to create social media content or documentation.
 
