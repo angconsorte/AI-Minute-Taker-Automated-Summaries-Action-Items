@@ -33,5 +33,4 @@ The tool transformed our knowledge that would be wasted into a versatile content
 * **Infrastructure:** Google Colab (Free Tier NVIDIA T4)
 
 ---
-![AI Assisted](https://img.shields.io/badge/AI-Assisted_Dev-purple)
 *This project was developed using an AI-assisted workflow to optimize library dependencies and prompt engineering.*
